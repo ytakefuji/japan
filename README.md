@@ -6,6 +6,7 @@ black line shows the number of daily deaths, blue line the predicted number of d
 Data was downloaded from: 
 
 https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/jhu/new_deaths.csv
+
 https://covid.ourworldindata.org/data/ecdc/new_deaths.csv
 
 <img src='japan.gif' height=400 width=600>
