@@ -1,7 +1,7 @@
 # japan
 
 the number of daily deaths due to the covid-19 in Japan:
-black line shows the number of daily deaths, blue line the predicted number of daily deaths using 245 days, red line the predicted number od daily deaths changing the number of days.
+black line shows the number of daily deaths, blue line the predicted number of daily deaths using 275 days, red line the predicted number of daily deaths changing the number of days for curve-fitting.
 
 Data was downloaded from: 
 
