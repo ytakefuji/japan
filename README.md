@@ -1,7 +1,7 @@
 # japan
 
 the number of daily deaths due to the covid-19 in Japan:
-black line shows the number of daily deaths, blue line based on 10th degree polinomial predicting the number of daily deaths using 275 days, red line based on 5th degree polinomial predicting number of daily deaths by changing the number of days for curve-fitting.
+black line shows the number of daily deaths, blue line based on 10th degree polinomial predicting the number of daily deaths using 300 days, red line based on 5th degree polinomial predicting number of daily deaths by changing the number of days for curve-fitting.
 
 Data was downloaded from: 
 
